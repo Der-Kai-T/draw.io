@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T13:33:03.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gGhkOQqpnqb-3gyAEkxc" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T13:38:02.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="oL0T2HUzJunp2afJNmrM" version="21.6.5" type="github">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
-    <mxGraphModel dx="1012" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
             <mxPoint x="790" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4aXOUXndxHRp2GkOmo0-14" value="Siemens Logo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H4aXOUXndxHRp2GkOmo0-14" value="SPS&lt;br&gt;Logo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4aXOUXndxHRp2GkOmo0-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H4aXOUXndxHRp2GkOmo0-2" target="H4aXOUXndxHRp2GkOmo0-4">
@@ -122,6 +122,9 @@
             <mxPoint x="720" y="130" as="sourcePoint" />
             <mxPoint x="730" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="H4aXOUXndxHRp2GkOmo0-31" value="&lt;h1&gt;Prizipschaltbild Marktversorgung&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;jede Marktsäule ist über eine eigene NH-Sicherung trennbar&lt;/li&gt;&lt;li&gt;die SPS Logo hat ein Zeitprogramm, dass über einen Leistungsschalter alle Stromsäulen gesammelt freigibt&lt;/li&gt;&lt;li&gt;über einen Schlüsselschalter (Schlüssel: MS-1) kann das Zeitprogramm überschrieben werden und unabhängig die Säulen freigegeben werden (z.B. bei Vorverlegungen oder Wartungsarbeiten)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="440" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
