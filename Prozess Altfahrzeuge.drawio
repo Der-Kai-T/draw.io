@@ -7,8 +7,8 @@
         <mxCell id="gvst5AF2a0xxXVvo7113-15" value="restlicher Bezirk" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cveXAAd5tMvSlIGVYIJ7-2" target="gvst5AF2a0xxXVvo7113-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cveXAAd5tMvSlIGVYIJ7-2" value="Standort" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="790" y="820" width="100" height="40" as="geometry" />
+        <mxCell id="cveXAAd5tMvSlIGVYIJ7-2" value="Standort" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="760" y="800" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cveXAAd5tMvSlIGVYIJ7-4" value="Industriegebiet&lt;div&gt;Rothenburgsort / Billbrook&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;exitX=-0.033;exitY=0.514;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cveXAAd5tMvSlIGVYIJ7-2" target="aHFnWSv0snW7f39dgXMF-6" edge="1">
           <mxGeometry x="-0.4001" width="50" height="50" relative="1" as="geometry">
@@ -78,7 +78,7 @@
         <mxCell id="aHFnWSv0snW7f39dgXMF-52" value="ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aHFnWSv0snW7f39dgXMF-29" target="aHFnWSv0snW7f39dgXMF-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aHFnWSv0snW7f39dgXMF-29" value="Gefahrenzustand" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="aHFnWSv0snW7f39dgXMF-29" value="Gefahrenzustand" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="760" y="480" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aHFnWSv0snW7f39dgXMF-31" value="nein" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aHFnWSv0snW7f39dgXMF-29" target="cveXAAd5tMvSlIGVYIJ7-2" edge="1">
@@ -132,16 +132,19 @@
         <mxCell id="aHFnWSv0snW7f39dgXMF-54" value="nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aHFnWSv0snW7f39dgXMF-51" target="aHFnWSv0snW7f39dgXMF-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aHFnWSv0snW7f39dgXMF-51" value="Verursacher ermittelbar" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="aHFnWSv0snW7f39dgXMF-51" value="Verursacher ermittelbar" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="400" y="480" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aHFnWSv0snW7f39dgXMF-60" value="ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aHFnWSv0snW7f39dgXMF-53" target="aHFnWSv0snW7f39dgXMF-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aHFnWSv0snW7f39dgXMF-53" value="milderes Mittel" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="aHFnWSv0snW7f39dgXMF-53" value="milderes Mittel" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="160" y="480" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aHFnWSv0snW7f39dgXMF-59" value="milderes Mittel anwenden" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" parent="1" vertex="1">
+        <mxCell id="rZ0vq1LoBwSU4AF1OaNH-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aHFnWSv0snW7f39dgXMF-59" target="rZ0vq1LoBwSU4AF1OaNH-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHFnWSv0snW7f39dgXMF-59" value="milderes Mittel anwenden" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="180" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aHFnWSv0snW7f39dgXMF-61" value="nein" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aHFnWSv0snW7f39dgXMF-53" target="0-Z-aFg5bhClTdzB51h3-75" edge="1">
@@ -447,6 +450,9 @@
         <mxCell id="0-Z-aFg5bhClTdzB51h3-74" value="Abschleppauftrag&lt;div&gt;Sicherstellung&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="750" y="1240" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rZ0vq1LoBwSU4AF1OaNH-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0-Z-aFg5bhClTdzB51h3-75" target="rZ0vq1LoBwSU4AF1OaNH-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0-Z-aFg5bhClTdzB51h3-75" value="Abschleppauftrag&lt;div&gt;Sicherstellung&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-60" y="640" width="200" height="60" as="geometry" />
         </mxCell>
@@ -719,6 +725,9 @@
         </mxCell>
         <mxCell id="rZ0vq1LoBwSU4AF1OaNH-77" value="Anlage Vorgang" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="790" y="225" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ0vq1LoBwSU4AF1OaNH-79" value="Bußgeldverfahren / Sondernutzung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="780" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
